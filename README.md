@@ -1,4 +1,4 @@
-Hi there, I'm Maryam! 👋
+Hi there, I'm Maryam 👋
 
 ⚡ Junior Software Engineer & DevOps Enthusiast
 
@@ -14,7 +14,7 @@ I focus on bridging the gap between development and operations by:
 
 🤖 Codifying infrastructure with Terraform & Ansible.
 
-🔄 implementing CI/CD principles to increase developer productivity.
+🔄 Implementing CI/CD principles to increase developer productivity.
 
 I am currently seeking opportunities to apply my skills in Go, Python, and Cloud Engineering to solve real-world problems.
 
@@ -82,8 +82,8 @@ Java, Go
 📊 GitHub Analytics
 
 <div align="center">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmaryam22001%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaryam22001%26layout%3Dcompact%26theme%3Dtokyonight"/>
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmaryam22001%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Maryam's GitHub Stats"/>
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaryam22001%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages"/>
 </div>
 
 📣 Let’s Connect!
