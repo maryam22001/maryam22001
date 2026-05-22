@@ -50,13 +50,6 @@ Developed a high-performance backend in Go, designed for ease of integration wit
 
 ---
 
-## 🏆 Additional Projects
-
-| Project | Description | Stack |
-|---------------|-------------------------------------------------|-------------|
-| [JobHunter_AI](https://github.com/maryam22001/JobHunter_AI) | Automated job search and scaling experiments for improved productivity | Go, Nix |
-| [LeetCode](https://github.com/maryam22001/LeetCode) | Algorithmic solutions and real-world problem solving | Java, Go |
-
 ---
 
 ## 📊 GitHub Analytics
